@@ -1,0 +1,37 @@
+
+body{
+    background: radial-gradient(70% 70%, #678b7dd5, rgb(163, 177, 197));
+    color: #fff;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.container{
+    max-width: 1230px;
+    padding: 0 30px;
+    margin: 0 auto;
+}
+.container_fluid{
+    max-width: 1920px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 55px;
+    padding: 50px;
+}
+.stars{
+    color: orange;
+}
+.star{
+    color: rgb(156, 151, 141);
+}
+.btn{
+    border-radius: 21px;
+    cursor: pointer;
+    border: none;
+    padding: 6px 20px;
+    font-size: 20px;
+}
+
